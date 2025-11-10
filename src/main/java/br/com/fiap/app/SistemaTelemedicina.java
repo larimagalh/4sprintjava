@@ -1,5 +1,4 @@
 package br.com.fiap.app;
-package app;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
@@ -55,4 +54,5 @@ public class SistemaTelemedicina {
         System.out.println("Chatbot interagiu? " + (interacao != null ? "Sim" : "Não"));
     }
 }
+
 
